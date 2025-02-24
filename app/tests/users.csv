@@ -1,0 +1,6 @@
+"id","email","hashed_password"
+1,"asdasda@mail.ru","qwduiouduqhediu213j1e8d2"
+2,"shar0222@mail.ru","fui3riuh34hr"
+10,"fwefwe@example.com","get_passwords_hash(user_data.password)"
+11,"wewerwer@example.com","$2b$12$4CHMXQ4iARL9lQoQtqKyZeLAhFUqdX4AEMnvjE5t8n300mW6kOkuC"
+12,"test@test.com","$2b$12$I78c3Fi50Mr5Nem8SawjzeKVuA1jUVo5/qKAhJcZHnVJAEBR68QM6"
