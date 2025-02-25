@@ -29,7 +29,7 @@ app = FastAPI()
 # CMD ["gunicorn", "app.main:app", "--worker", "4", "--worker-class", "uvicorn.workers.UvicornWorker", "--bind=0.0.0.0:8000"]
 
 
-# Примонтировать картинки статитеские321312312312312
+# Примонтировать картинки статитеские
 app.mount("/static", StaticFiles(directory="app/static"), "static")
 
 

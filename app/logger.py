@@ -3,6 +3,7 @@ from datetime import datetime
 from pythonjsonlogger import jsonlogger
 from app.config11 import settings
 
+# Логирование
 logger = logging.getLogger()
 logHandler = logging.StreamHandler()
 
